@@ -6793,11 +6793,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\moonm\\source\\repos\\CodingPractice\\CodingPracticeTests\\CodingPracticeTests.csproj",
+      "projectUniqueName": "C:\\Users\\moonm\\Documents\\CodeGolf\\CodingPracticeTests\\CodingPracticeTests.csproj",
       "projectName": "CodingPracticeTests",
-      "projectPath": "C:\\Users\\moonm\\source\\repos\\CodingPractice\\CodingPracticeTests\\CodingPracticeTests.csproj",
+      "projectPath": "C:\\Users\\moonm\\Documents\\CodeGolf\\CodingPracticeTests\\CodingPracticeTests.csproj",
       "packagesPath": "C:\\Users\\moonm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\moonm\\source\\repos\\CodingPractice\\CodingPracticeTests\\obj\\",
+      "outputPath": "C:\\Users\\moonm\\Documents\\CodeGolf\\CodingPracticeTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\moonm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6814,8 +6814,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\moonm\\source\\repos\\CodingPractice\\CodingPractice\\CodingPractice.csproj": {
-              "projectPath": "C:\\Users\\moonm\\source\\repos\\CodingPractice\\CodingPractice\\CodingPractice.csproj"
+            "C:\\Users\\moonm\\Documents\\CodeGolf\\CodingPractice\\CodingPractice.csproj": {
+              "projectPath": "C:\\Users\\moonm\\Documents\\CodeGolf\\CodingPractice\\CodingPractice.csproj"
             }
           }
         }
