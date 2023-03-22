@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CodingPractice"
+    "\\CodingPractice",
+    "\\CodingPracticeTests"
   ],
-  "SelectedNode": "\\CodingPractice\\FactorialChallenge.cs",
+  "SelectedNode": "\\CodingPractice",
   "PreviewInSolutionExplorer": false
 }
