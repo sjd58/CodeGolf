@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingPractice
+namespace CodingPractice.TechElevatorCards
 {
 
     // Given a string, return the char in the string that comes up most often in the string.

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CodingPractice
+namespace CodingPractice.TechElevatorCards
 {
     // Coding Exercise:
     // Create a string method called ComboString that takes in two strings "a" and "b".
