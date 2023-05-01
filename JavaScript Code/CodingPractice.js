@@ -69,3 +69,33 @@ function printFloydArray(number) {
 
 console.log(printFloydArray(6));
 
+function mostCommonChar(input) {
+    let uniqueChars = [];
+    let charCounts = [];
+    inputArray = input.split("");
+    inputArray.forEach(char => {
+        if (!(uniqueChars.includes(char))) {
+            uniqueChars.push(char);
+            charCounts.push(0);
+        }
+    });
+    for (let i = 0; i < uniqueChars.length; i++) {
+        inputArray.forEach(char => {
+            if (char == uniqueChars[i]) {
+                charCounts[i]++;
+            }
+        })
+    }
+    let highestCharCount = 0;
+    let charToReturn = "";
+    for (let i = 0; i < charCounts.length; i++) {
+        if (charCounts[i] > highestCharCount) {
+            highestCharCount = charCounts[i];
+            charToReturn = uniqueChars[i];
+        }
+    }
+    return charToReturn;
+}
+
+console.log(mostCommonChar("Hello world! Hello hello!"))
+
