@@ -96,6 +96,5 @@ function mostCommonChar(input) {
     }
     return charToReturn;
 }
-
 console.log(mostCommonChar("Hello world! Hello hello!"))
 
